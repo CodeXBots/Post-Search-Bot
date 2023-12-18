@@ -8,10 +8,10 @@ async def start(bot, message):
     await add_user(message.from_user.id, message.from_user.first_name)
     await message.reply(text=script.START.format(message.from_user.mention),
                         disable_web_page_preview=True,
-                        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('⇄  ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ  ⇄', url=f'http://telegram.me/Link_Search_Robot?startgroup=true')
-            ],[InlineKeyboardButton("ʜᴇʟᴘ", url="http://telegram.me/BotszSupport"),
+                        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('⇄  ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ  ⇄', url=f'http://telegram.me/Nobita_Filter_Bot?startgroup=true')
+            ],[InlineKeyboardButton("ʜᴇʟᴘ", url="http://telegram.me/NobiDeveloperSupport"),
 
-InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="misc_help")],[InlineKeyboardButton('❂   ᴏᴜʀ  ᴜᴘᴅᴀᴛᴇꜱ  ᴄʜᴀɴɴᴇʟ   ❂', url=f'http://telegram.me/BotszList')]]))  
+InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="misc_help")],[InlineKeyboardButton('❂   ᴏᴜʀ  ᴜᴘᴅᴀᴛᴇꜱ  ᴄʜᴀɴɴᴇʟ   ❂', url=f'http://telegram.me/NobiDeveloper')]]))  
 @Client.on_message(filters.command("help"))
 async def help(bot, message):
     await message.reply(text=script.HELP,
@@ -48,10 +48,10 @@ async def misc(bot, update):
     if data=="home":
        await update.message.edit(text=script.START.format(update.from_user.mention),
                                  disable_web_page_preview=True,
-                                 reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('⇄  ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ  ⇄', url=f'http://telegram.me/Link_Search_Robot?startgroup=true')
-            ],[InlineKeyboardButton("ʜᴇʟᴘ", url="http://telegram.me/BotszSupport"),
+                                 reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('⇄  ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ  ⇄', url=f'http://telegram.me/Nobita_Filter_Bot?startgroup=true')
+            ],[InlineKeyboardButton("ʜᴇʟᴘ", url="http://telegram.me/NobiDeveloperSupport"),
 
-InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="misc_help")],[InlineKeyboardButton('❂   ᴏᴜʀ  ᴜᴘᴅᴀᴛᴇꜱ  ᴄʜᴀɴɴᴇʟ   ❂', url=f'http://telegram.me/BotszList')]])) 
+InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="misc_help")],[InlineKeyboardButton('❂   ᴏᴜʀ  ᴜᴘᴅᴀᴛᴇꜱ  ᴄʜᴀɴɴᴇʟ   ❂', url=f'http://telegram.me/NobiDeveloper')]])) 
     elif data=="help":
        await update.message.edit(text=script.HELP, 
                                  disable_web_page_preview=True,
@@ -62,26 +62,6 @@ InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="misc_help")],[InlineKeyboa
         await update.message.edit(text=script.ABOUT.format((await bot.get_me()).mention), 
                                   disable_web_page_preview=True,
                                   reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("ʙᴀᴄᴋ", callback_data="misc_home")]]))
-         
-@Client.on_message(filters.command("follow"))
-async def follow_msg(bot, message):
-    btn = [[
-        InlineKeyboardButton(text="ᴛᴡɪᴛᴛᴇʀ", url="https://twitter.com/NobiDeveloper"),
-        InlineKeyboardButton(text="ɪɴꜱᴛᴀɢʀᴀᴍ", url="https://instagram.com/NobiDeveloper")
-        ],[
-        InlineKeyboardButton(text="ɢɪᴛʜᴜʙ  ᴀᴄᴄᴏᴜɴᴛ", url="https://github.com/NobiDeveloper")
-    ],[
-        InlineKeyboardButton(text="ᴏᴜʀ  ᴏꜰꜰɪᴄɪᴀʟ  ᴡᴇʙꜱɪᴛᴇ", url="https://nobideveloper.blogspot.com")
-    ],[
-        InlineKeyboardButton(text="ꜱᴜʙꜱᴄʀɪʙᴇ  ᴏᴜʀ  ʏᴛ  ᴄʜᴀɴɴᴇʟ", url="https://youtube.com/@NobiDeveloper")
-    ],[
-        InlineKeyboardButton(text="ʀᴇᴠɩᴇᴡꜱ", url="https://telegram.me/ReviewsGallary"),
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇꜱ", url="https://telegram.me/NobiDeveloper")
-    ]]
-    yt = await message.reply_photo(photo='https://telegra.ph/file/b681d379605d3d3a9fa1c.jpg', caption="<b>ᴏᴜʀ  ꜱᴏᴄɪᴀʟ  ᴍᴇᴅɪᴀ  ᴘʟᴀᴛꜰᴏʀᴍꜱ</b>", reply_markup=InlineKeyboardMarkup(btn))
-    await asyncio.sleep(500)
-    await yt.delete()
-    await message.delete()
 
 @Client.on_message(filters.private & filters.text & filters.incoming)
 async def pm_text(bot, message):

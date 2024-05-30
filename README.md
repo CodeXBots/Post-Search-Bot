@@ -3,7 +3,7 @@
 </h2>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=POST+SEARCH+BOT+!;CREATED+BY+CodeXBots (RAHUL)+!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=POST+SEARCH+BOT+!;CREATED+BY+CodeXBots+!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
  ━━━━━━━━━━━━━━━━━

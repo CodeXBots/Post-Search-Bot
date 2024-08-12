@@ -55,11 +55,14 @@ async def search(bot, message):
           await send_message_in_chunks(bot, message.chat.id, head+results)
     except:
        pass
-       
-
 
 @Client.on_callback_query(filters.regex(r"^recheck"))
 async def recheck(bot, update):
+    Rahul = database.find_one({"chat_id": ADMIN})
+    User = Client("post_search", session_string=Rahul['session'], api_hash=API_HASH, api_id=API_ID)
+    if Rahul == None:
+        return await update.message.edit("**Contact Admin Then Say To Login In Bot.**")
+    await User.connect()
     clicked = update.from_user.id
     try:      
        typed = update.message.reply_to_message.from_user.id
@@ -83,7 +86,7 @@ async def recheck(bot, update):
                results += f"<b>🎬 {name}\n {msg.link} </b>\n\n"
        if bool(results)==False:          
           return await update.message.edit("<b>⚠️ ɴᴏ ʀᴇꜱᴜʟᴛꜱ ꜰᴏᴜɴᴅ !!\nᴘʟᴇᴀꜱᴇ ʀᴇǫᴜᴇꜱᴛ ᴛᴏ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ 👇🏻</b>", reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🧑‍✈️  ʀᴇǫᴜᴇꜱᴛ ᴛᴏ ᴀᴅᴍɪɴ  🧑‍✈️", callback_data=f"request_{id}")]]))
-       await update.message.edit(text=head+results, disable_web_page_preview=True)
+           await send_message_in_chunks(bot, update.message.chat.id, head+results)
     except Exception as e:
        await update.message.edit(f"ᴇʀʀᴏʀ - `{e}`")
 

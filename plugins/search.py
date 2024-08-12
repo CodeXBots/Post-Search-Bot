@@ -86,10 +86,9 @@ async def recheck(bot, update):
                results += f"<b>🎬 {name}\n {msg.link} </b>\n\n"
        if bool(results)==False:          
           return await update.message.edit("<b>⚠️ ɴᴏ ʀᴇꜱᴜʟᴛꜱ ꜰᴏᴜɴᴅ !!\nᴘʟᴇᴀꜱᴇ ʀᴇǫᴜᴇꜱᴛ ᴛᴏ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ 👇🏻</b>", reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🧑‍✈️  ʀᴇǫᴜᴇꜱᴛ ᴛᴏ ᴀᴅᴍɪɴ  🧑‍✈️", callback_data=f"request_{id}")]]))
-           await send_message_in_chunks(bot, update.message.chat.id, head+results)
+       await send_message_in_chunks(bot, update.message.chat.id, head+results)
     except Exception as e:
        await update.message.edit(f"ᴇʀʀᴏʀ - `{e}`")
-
 
 @Client.on_callback_query(filters.regex(r"^request"))
 async def request(bot, update):

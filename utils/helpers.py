@@ -38,10 +38,6 @@ async def delete_group(id):
     data = {"_id":id}
     await grp_col.delete_one(data)
 
-async def delete_user(id):
-    data = {"_id":id}
-    await user_col.delete_one(data)
-
 async def get_groups():
     count  = await grp_col.count_documents({})
     cursor = grp_col.find({})
@@ -60,6 +56,23 @@ async def get_users():
     cursor = user_col.find({})
     list   = await cursor.to_list(length=int(count))
     return count, list
+
+async def save_dlt_message(message, time):
+    data = {"chat_id": message.chat.id,
+            "message_id": message.id,
+            "time": time}
+    await dlt_col.insert_one(data)
+   
+async def get_all_dlt_data(time):
+    data     = {"time":{"$lte":time}}
+    count    = await dlt_col.count_documents(data)
+    cursor   = dlt_col.find(data)
+    all_data = await cursor.to_list(length=int(count))
+    return all_data
+
+async def delete_all_dlt_data(time):   
+    data = {"time":{"$lte":time}}
+    await dlt_col.delete_many(data)
 
 async def search_imdb(query):
     try:
@@ -106,25 +119,4 @@ async def force_sub(bot, message):
        await bot.send_message(chat_id=admin, text=f"❌ Error in Fsub:\n`{str(e)}`")
        return False 
     else:
-       return True 
-
-async def broadcast_messages(user_id, message):
-    try:
-        await message.copy(chat_id=user_id)
-        return True, "Success"
-    except FloodWait as e:
-        await asyncio.sleep(e.x)
-        return await broadcast_messages(user_id, message)
-    except InputUserDeactivated:
-        await db.delete_user(int(user_id))
-        logging.info(f"{user_id}-Removed from Database, since deleted account.")
-        return False, "Deleted"
-    except UserIsBlocked:
-        logging.info(f"{user_id} -Blocked the bot.")
-        return False, "Blocked"
-    except PeerIdInvalid:
-        await db.delete_user(int(user_id))
-        logging.info(f"{user_id} - PeerIdInvalid")
-        return False, "Error"
-    except Exception as e:
-        return False, "Error"
+       return True

@@ -16,6 +16,7 @@
   - `DATABASE_URI` - Enter Mongodb database URL
   - `CHANNEL` - Force subscribe channel username without `@`
   - `LOG_CHANNEL` - Log Channel ID.
+  - `SESSION` - Pyrogram String Session.
 
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 ```

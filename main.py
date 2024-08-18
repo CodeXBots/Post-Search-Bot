@@ -1,4 +1,5 @@
 from client import Bot
 
-print("Bot Started. By @CodeXBots")
-Bot().run()
+if __name__ == "__main__":
+    app = Bot()
+    app.run()

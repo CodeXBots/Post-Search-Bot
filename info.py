@@ -1,11 +1,11 @@
 import os
 from os import environ
 
-API_ID       = 
+API_ID       = ""
 API_HASH     = ""
 BOT_TOKEN    = ""
 SESSION      = ""
 DATABASE_URI = ""
-LOG_CHANNEL  =
-ADMIN        = 1255023013
+LOG_CHANNEL  = ""
+ADMIN        = ""
 CHANNEL      = "RahulReviewsYT"

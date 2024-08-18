@@ -1,4 +1,4 @@
-pyrofork==2.2.11
+pyrogram
 tgcrypto
 motor
 cinemagoer

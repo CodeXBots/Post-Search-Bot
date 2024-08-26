@@ -6,8 +6,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=POST+SEARCH+BOT+!;CREATED+BY+CodeXBots+!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
- ━━━━━━━━━━━━━━━━━
-
 ## 🏷 Environment Variables
   - `API_ID` - Your Telegram API ID.
   - `API_HASH` - Your Telegram API HASH.

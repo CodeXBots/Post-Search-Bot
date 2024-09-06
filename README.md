@@ -32,11 +32,12 @@
 * `CHANNEL` - Force subscribe channel username without `@`
 * `LOG_CHANNEL` - Log Channel ID.
 * `SESSION` - Pyrogram String Session.
+</b>
 </details>
 
 ### 😍 COMMANDS
 
-<details><summary>Tap On Me For Commands</summary></b>
+<details><summary><b>Tap On Me For Commands</b></summary>
 ```
 start - Check If I'm Alive or Not!
 id - Get Channel/Group Id
@@ -81,6 +82,7 @@ connections - Get connected channels list
 ### 🥳 CREDIT
 
 <details><summary>Tap On Me For Credit</summary>
+
 
 💝 Credit Goes To [CodeXBots](https://github.com/CodeXBots) So Don't Forgot To Give Credit
 

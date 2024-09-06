@@ -1,7 +1,9 @@
 <h1 align="center">
-  ─「 ᴘᴏsᴛ  sᴇᴀʀᴄʜ  ʙᴏᴛ 」─
+ <b><a href="" target="/blank">Post Search Bot</a></>
 </h1>
+
 <p align="center">🩷 Thanks for Being Here 🩷</p>
+
 
 
 ### 🥰 FEATURES

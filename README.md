@@ -99,7 +99,7 @@ connections - Get connected channels list
 
 ### ☕ BUY ME A COFFEE
 - [PayPal]()
-- [UPI]()
+- [UPI](https://graph.org/file/63e178741bee853a29970.jpg)
 
 ### 📌 NOTE
 

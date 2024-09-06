@@ -21,7 +21,7 @@
 </details>
 
 
-### 🔥 ALL VARIABLES
+### 🔥 VARIABLES
 
 <b><details><summary>Tap On Me For Environment Variable</summary>
 

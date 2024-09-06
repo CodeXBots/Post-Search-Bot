@@ -37,7 +37,7 @@
 
 ### 😍 COMMANDS
 
-<details><summary><b>Tap On Me For Commands</b></summary>
+<b><details><summary>Tap On Me For Commands</summary>
 ```
 start - Check If I'm Alive or Not!
 id - Get Channel/Group Id
@@ -47,6 +47,7 @@ disconnect - Disconnect Database
 fsub - Add a Force Subscribe Channel
 connections - Get connected channels list
 ```
+</b>
 </details>
 
 ### 📶 DEPLOYEMENT

@@ -6,17 +6,39 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=POST+SEARCH+BOT+!;CREATED+BY+CodeXBots+!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
+### 🥰 FEATURES
+
+<b><details><summary>Tap On Me For Bot Features</summary>
+
+- Connect multiple channel
+- Set fsub
+- No telegram message length limit
+- Auto delete 
+- Fully modified repo
+- Deploy To Koyeb + Heroku + Railway.
+- Developer Service 24x7. 🔥
+</b>
+</details>
+
+
 ### 🔥 ALL VARIABLES
-  - `API_ID` - Your Telegram API ID.
-  - `API_HASH` - Your Telegram API HASH.
-  - `BOT_TOKEN` - Get it from BotFather.
-  - `ADMIN` - Your ID
-  - `DATABASE_URI` - Enter Mongodb database URL
-  - `CHANNEL` - Force subscribe channel username without `@`
-  - `LOG_CHANNEL` - Log Channel ID.
-  - `SESSION` - Pyrogram String Session.
+
+<b><details><summary>Tap On Me For Environment Variable</summary>
+
+* `API_ID` - Your Telegram API ID.
+* `API_HASH` - Your Telegram API HASH.
+* `BOT_TOKEN` - Get it from BotFather.
+* `ADMIN` - Your ID
+* `DATABASE_URI` - Enter Mongodb database URL
+* `CHANNEL` - Force subscribe channel username without `@`
+* `LOG_CHANNEL` - Log Channel ID.
+* `SESSION` - Pyrogram String Session.
+</b>
+</details>
 
 ### 😍 COMMANDS
+
+<b><details><summary>Tap On Me For Commands</summary>
 ```
 start - Check If I'm Alive or Not!
 id - Get Channel/Group Id
@@ -26,6 +48,9 @@ disconnect - Disconnect Database
 fsub - Add a Force Subscribe Channel
 connections - Get connected channels list
 ```
+</b>
+</details>
+
 ### 📶 DEPLOYEMENT
 <details>
 <summary><b> Tap On Me For Deply </b></summary>
@@ -65,10 +90,12 @@ connections - Get connected channels list
 💘 Base Repo Credit [CyniteOfficial](https://github.com/CyniteOfficial)
 
 💖 And Thank You So Much To All Who Help In This Journey 💕
-
-Copyright ©️ [CodeXBots](https://telegram.me/CodeXBro)
 </b>
 </details>
+
+### 💕 CONTACT DEVELOPER
+
+- [Rahul](https://telegram.me/CodeXBro)
 
 ### 📌 Note
 

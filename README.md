@@ -58,14 +58,19 @@ connections - Get connected channels list
 </a></p>
 </details>
 
-<h3> 「 ᴄʀᴇᴅɪᴛs 」
-</h3>
+## Credit
 
-- <b>[ᴄʏɴɪᴛᴇ](https://github.com/cyniteofficial)
+<b><details><summary>Tap On Me For See Credit</summary>
 
-- <b>[ʀᴀʜᴜʟ](https://github.com/CodeXBots)</b>
- 
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/CodeXSupport) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ᴘᴏsᴛ sᴇᴀʀᴄʜ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
+💝 Credit Goes To [CodeXBots](https://github.com/CodeXBots) So Don't Forgot To Give Credit
+
+💘 Base Repo Credit [CyniteOfficial](https://github.com/CyniteOfficial)
+
+💖 And Thank You So Much To All Who Help In This Journey 💕
+
+Copyright ©️ [CodeXBots](https://telegram.me/CodeXBro)
+</b>
+</details>
 
 ## 📌  𝑵𝒐𝒕𝒆
 

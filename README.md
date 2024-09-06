@@ -6,7 +6,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=POST+SEARCH+BOT+!;CREATED+BY+CodeXBots+!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
-## 🏷 Environment Variables
+### 🔥 ALL VARIABLES
   - `API_ID` - Your Telegram API ID.
   - `API_HASH` - Your Telegram API HASH.
   - `BOT_TOKEN` - Get it from BotFather.
@@ -16,7 +16,7 @@
   - `LOG_CHANNEL` - Log Channel ID.
   - `SESSION` - Pyrogram String Session.
 
-## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
+### 😍 COMMANDS
 ```
 start - Check If I'm Alive or Not!
 id - Get Channel/Group Id
@@ -26,11 +26,9 @@ disconnect - Disconnect Database
 fsub - Add a Force Subscribe Channel
 connections - Get connected channels list
 ```
-## 📶 DEPLOYEMENT
+### 📶 DEPLOYEMENT
 <details>
-<summary><h3>
-- <b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs </b>
-</h3></summary>
+<summary><b> Tap On Me For Deply </b></summary>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
@@ -58,7 +56,7 @@ connections - Get connected channels list
 </a></p>
 </details>
 
-## Credit
+### ❤️ Credit
 
 <b><details><summary>Tap On Me For See Credit</summary>
 
@@ -72,6 +70,6 @@ Copyright ©️ [CodeXBots](https://telegram.me/CodeXBro)
 </b>
 </details>
 
-## 📌  𝑵𝒐𝒕𝒆
+### 📌 Note
 
 ᴊᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴇᴅɪᴛ ᴀꜱ ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.

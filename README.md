@@ -26,7 +26,7 @@ disconnect - Disconnect Database
 fsub - Add a Force Subscribe Channel
 connections - Get connected channels list
 ```
-
+## 📶 DEPLOYEMENT
 <details>
 <summary><h3>
 - <b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs </b>

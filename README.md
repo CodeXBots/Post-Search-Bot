@@ -1,5 +1,5 @@
 <h1 align="center">
- <b><a href="https://youtu.be/yhveHTf92Aw" target="/blank">Post Search Bot</a></b>
+ <b><a href="https://youtu.be/yhveHTf92Aw" target="/blank">Post Search Bot</a>
 </h1>
 
 <p align="center">🩷 Thanks for Being Here 🩷</p>
@@ -8,7 +8,7 @@
 
 ### 🥰 FEATURES
 
-<b><details><summary>Tap On Me For Bot Features</summary>
+<details><summary>Tap On Me For Bot Features</summary>
 
 - Connect multiple channel
 - Set fsub
@@ -16,14 +16,13 @@
 - Auto delete 
 - Fully modified repo
 - Deploy To Koyeb + Heroku + Railway.
-- Developer Service 24x7. 🔥
-</b>
+- Developer Service 24x7.
 </details>
 
 
 ### 🔥 VARIABLES
 
-<b><details><summary>Tap On Me For Environment Variable</summary>
+<details><summary>Tap On Me For Environment Variable</summary>
 
 * `API_ID` - Your Telegram API ID.
 * `API_HASH` - Your Telegram API HASH.
@@ -33,12 +32,11 @@
 * `CHANNEL` - Force subscribe channel username without `@`
 * `LOG_CHANNEL` - Log Channel ID.
 * `SESSION` - Pyrogram String Session.
-</b>
 </details>
 
 ### 😍 COMMANDS
 
-<b><details><summary>Tap On Me For Commands</summary>
+<details><summary>Tap On Me For Commands</summary>
 ```
 start - Check If I'm Alive or Not!
 id - Get Channel/Group Id
@@ -48,12 +46,11 @@ disconnect - Disconnect Database
 fsub - Add a Force Subscribe Channel
 connections - Get connected channels list
 ```
-</b>
 </details>
 
 ### 📶 DEPLOYEMENT
 <details>
-<summary><b> Tap On Me For Deply </b></summary>
+<summary>Tap On Me For Deply</summary>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
@@ -83,14 +80,13 @@ connections - Get connected channels list
 
 ### 🥳 CREDIT
 
-<b><details><summary>Tap On Me For See Credit</summary>
+<details><summary>Tap On Me For Credit</summary>
 
 💝 Credit Goes To [CodeXBots](https://github.com/CodeXBots) So Don't Forgot To Give Credit
 
 💘 Base Repo Credit [CyniteOfficial](https://github.com/CyniteOfficial)
 
 💖 And Thank You So Much To All Who Help In This Journey.
-</b>
 </details>
 
 ### 💕 CONTACT DEVELOPER
@@ -103,4 +99,4 @@ connections - Get connected channels list
 
 ### 📌 NOTE
 
-ᴊᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴇᴅɪᴛ ᴀꜱ ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.
+ᴊᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴇᴅɪᴛ ᴀꜱ ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.</b>

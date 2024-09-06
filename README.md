@@ -1,10 +1,8 @@
-<h2 align="center">
+<h1 align="center">
   ─「 ᴘᴏsᴛ  sᴇᴀʀᴄʜ  ʙᴏᴛ 」─
-</h2>
+</h1>
+<p align="center">🩷 Thanks for Being Here 🩷</p>
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=POST+SEARCH+BOT+!;CREATED+BY+CodeXBots+!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
-</p>
 
 ### 🥰 FEATURES
 

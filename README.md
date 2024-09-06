@@ -89,7 +89,7 @@ connections - Get connected channels list
 
 💘 Base Repo Credit [CyniteOfficial](https://github.com/CyniteOfficial)
 
-💖 And Thank You So Much To All Who Help In This Journey 💕
+💖 And Thank You So Much To All Who Help In This Journey.
 </b>
 </details>
 

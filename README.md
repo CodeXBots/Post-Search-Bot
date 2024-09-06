@@ -81,7 +81,7 @@ connections - Get connected channels list
 </a></p>
 </details>
 
-### ❤️ Credit
+### 🥳 CREDIT
 
 <b><details><summary>Tap On Me For See Credit</summary>
 

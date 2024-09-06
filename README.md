@@ -36,7 +36,7 @@
 
 ### 😍 COMMANDS
 
-<details><summary>Tap On Me For Commands</summary>
+<details><summary>Tap On Me For Commands</summary></b>
 ```
 start - Check If I'm Alive or Not!
 id - Get Channel/Group Id
@@ -50,7 +50,7 @@ connections - Get connected channels list
 
 ### 📶 DEPLOYEMENT
 <details>
-<summary>Tap On Me For Deply</summary>
+<summary><b>Tap On Me For Deply</summary>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
@@ -67,7 +67,7 @@ connections - Get connected channels list
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
 </h3>
-<p align="center"><a href="https://railway.app/deploy?template=https://github.com/CodeXBots/Post-Search-Bot"">
+<p align="center"><a href="https://railway.app/deploy?template=https://github.com/CodeXBots/Post-Search-Bot">
      <img height="45px" src="https://railway.app/button.svg">
 </a></p>
 <h3 align="center">

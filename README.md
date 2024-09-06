@@ -32,8 +32,8 @@
 * `CHANNEL` - Force subscribe channel username without `@`
 * `LOG_CHANNEL` - Log Channel ID.
 * `SESSION` - Pyrogram String Session.
-</b>
 </details>
+</b>
 
 ### 😍 COMMANDS
 

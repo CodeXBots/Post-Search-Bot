@@ -1,5 +1,5 @@
 <h1 align="center">
- <b><a href="" target="/blank">Post Search Bot</a></>
+ <b><a href="" target="/blank">Post Search Bot</a></b>
 </h1>
 
 <p align="center">🩷 Thanks for Being Here 🩷</p>

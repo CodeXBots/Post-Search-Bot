@@ -97,6 +97,10 @@ connections - Get connected channels list
 
 - [Rahul](https://telegram.me/CodeXBro)
 
-### 📌 Note
+### ☕ BUY ME A COFFEE
+- [PayPal]()
+- [UPI]()
+
+### 📌 NOTE
 
 ᴊᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴇᴅɪᴛ ᴀꜱ ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.

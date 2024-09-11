@@ -85,7 +85,7 @@ connections - Get connected channels list
 <details><summary>Tap On Me For Credit</summary>
 
 
-💝 Credit Goes To [CodeXBots](https://github.com/CodeXBots) So Don't Forgot To Give Credit
+💝 Credit Goes To [CodeXBots](https://github.com/CodeXBots)
 
 💘 Base Repo Credit [CyniteOfficial](https://github.com/CyniteOfficial)
 

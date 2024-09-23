@@ -24,11 +24,11 @@
 
 <details><summary>Tap On Me For Environment Variable</summary>
 
-* `API_ID` - Your Telegram API ID.
-* `API_HASH` - Your Telegram API HASH.
-* `BOT_TOKEN` - Get it from BotFather.
+* `API_ID` - Your Telegram [API ID](https://youtu.be/RdMY6Lqfi9w).
+* `API_HASH` - Your Telegram [API HASH](https://youtu.be/RdMY6Lqfi9w).
+* `BOT_TOKEN` - Get it from [BotFather](https://youtu.be/aJILCCXfNVM).
 * `ADMIN` - Your ID
-* `DATABASE_URI` - Enter Mongodb database URL
+* `DATABASE_URI` - Enter Mongodb [database URL](https://youtu.be/pMJpHoiu1go)
 * `CHANNEL` - Force subscribe channel username without `@`
 * `LOG_CHANNEL` - Log Channel ID.
 * `SESSION` - Pyrogram String Session.

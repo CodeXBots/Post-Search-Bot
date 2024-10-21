@@ -16,7 +16,7 @@
 - Auto delete 
 - Fully modified repo
 - Deploy To Koyeb + Heroku + Railway.
-- Developer Service 24x7.
+- [Developer support](https://telegram.me/CodeXSupport) 24x7
 </details>
 
 
